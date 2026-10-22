@@ -18,7 +18,13 @@
 
 ## 🛠️ Hướng Dẫn Cài Đặt (Dễ Dàng Trong 1 Phút)
 
-### Cách 1: Cài qua Tampermonkey / Violentmonkey (Khuyên dùng)
+### 👉 Cài Đặt 1-Click (Khuyên dùng)
+Nếu trình duyệt của anh đã có tiện ích **Tampermonkey** hoặc **Violentmonkey**, chỉ cần click vào link bên dưới:
+👉 **[Cài Đặt Trực Tiếp Script (Raw UserScript)](https://raw.githubusercontent.com/nhoxboo/aidungeon-vietnamese/main/aidungeon-vietnamese.user.js)**
+
+---
+
+### Cách Cài Thủ Công
 
 1. Cài đặt tiện ích mở rộng **Tampermonkey** hoặc **Violentmonkey** trên trình duyệt của bạn (Chrome, Edge, Brave, Cốc Cốc, Firefox):
    - [Tampermonkey cho Chrome / Edge / Brave](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)

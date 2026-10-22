@@ -7,6 +7,8 @@
 // @match        https://play.aidungeon.com/*
 // @match        https://*.aidungeon.com/*
 // @icon         https://play.aidungeon.com/favicon.ico
+// @updateURL    https://raw.githubusercontent.com/nhoxboo/aidungeon-vietnamese/main/aidungeon-vietnamese.user.js
+// @downloadURL  https://raw.githubusercontent.com/nhoxboo/aidungeon-vietnamese/main/aidungeon-vietnamese.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
